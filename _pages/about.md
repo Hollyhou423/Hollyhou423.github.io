@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Wenwen Hou
+title: about
 permalink: /
 ##subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 

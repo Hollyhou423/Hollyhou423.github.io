@@ -27,8 +27,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture #`prof_pic.jpg` and put it in the `img/` folder.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit #`_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. #Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+Hi there! I am currently an MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn), supervised by [Prof. Ying Sun](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/SUN-Ying/yings) and [Prof. Hui Xiong](https://www.hkust-gz.edu.cn/people/hui-xiong/).
+
+Previously, I received my M.Sc. in Mathematics from [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk).
+
+My research interests lie in large language model compression, LLM interpretability, and LLM architecture. I’m especially interested in how principled mathematical tools can help us understand and improve modern AI systems.
+
+When I’m not coding or reading papers, I enjoy hiking, badminton, squash, reading novels, and writing technical posts.
+

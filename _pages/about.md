@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: A367602E-F33D-44B8-92B1-8663681C5AB9.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>The Hong Kong University of Science and Technology(Guangzhou)</p>
